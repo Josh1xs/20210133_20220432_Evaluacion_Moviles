@@ -1,4 +1,4 @@
-ntegrantes del Equipo
+Integrantes del Equipo
 
 Daniel Alejandro Alvarado Tobar - 20210133
 
